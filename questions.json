@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is 2+2",
+        "options": [2, 4, 5],
+        "answers": 4
+    },
+    {
+        "question": "What's the color of the sky?",
+        "options": ["Blue", "Green", "Red"],
+        "answers": "Blue"
+    },
+    {
+        "question": "What's the capital of Sweden?",
+        "options": ["Stockholm", "Gothenburg", "Malmo"],
+        "answers": "Stockholm"
+    },
+    {
+        "question": "How many days are there in a week?",
+        "options": [5, 7, 10],
+        "answers": 7
+    },
+    {
+        "question": "What year is it?",
+        "options": [2023, 2024, 2025],
+        "answers": 2024
+    }
+]
